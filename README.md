@@ -1,4 +1,4 @@
-# examfinalgROUP
+
 To perform a correlation analysis in R, you can follow these steps:
 
 Prepare your data: Make sure you have your dataset ready, with the variables you want to analyze.
@@ -15,3 +15,4 @@ By following these steps, you can conduct a correlation analysis in R and gain i
 
 
 
+>>>>>>> main
