@@ -15,4 +15,4 @@ By following these steps, you can conduct a correlation analysis in R and gain i
 
 
 
->>>>>>> main
+
